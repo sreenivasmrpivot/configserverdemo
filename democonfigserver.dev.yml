@@ -1,0 +1,12 @@
+appSettings:
+  Setting1: "git dev setting"
+
+connectionStrings:
+   MyDB: "Data Source=GithubDevSQLServer;Initial Catalog=MyDB;User ID=xxxx;Password=xxxx"
+
+
+client:
+  Default_IMyLogService:
+    address: "git_dev_endpoint"
+    binding: "git_dev_binding"
+    bindingConfiguration: "git_dev_bindingConfiguration"
